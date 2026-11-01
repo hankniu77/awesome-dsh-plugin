@@ -1,0 +1,8 @@
+url: https://github.com/hankniu77/dsh-botcrew
+name: hankniu77/dsh-botcrew
+category: workflow
+description:
+  en: Runs local WorkBuddy and QwenWork from one DSH group chat, with a member panel, per-member permissions, artifacts and a live work panel.
+  zh: 在一个 DSH 群聊里运行本机 WorkBuddy 与千问办公，支持成员面板、逐成员权限、产物与实时工位面板。
+icon: https://raw.githubusercontent.com/hankniu77/dsh-botcrew/main/assets/icon-180.png
+tarball: https://github.com/hankniu77/dsh-botcrew/releases/download/v0.1.3/botcrew.tgz
